@@ -1,0 +1,24 @@
+# p041-aceptar-estudiante-v2
+# Escribe un programa que solicite el nombre, sexo (h/m), edad y tres calificaciones de un aspirante. El programa
+# debe evaluar los datos y mostrar un mensaje claro que indique si el estudiante fue aceptado.
+print("\033[2J\033[H", end="")
+print("Escribe un programa que solicite el nombre, sexo (h/m), edad y tres calificaciones de un aspirante")
+nombre = input("Nombre   : ")
+sexo  = input("sexo (h/m): ")
+edad = int (input("Dame tu edad: "))
+print("dame 3 calificaciones separadas por un espacio \n")
+cal1, cal2, cal3 = input().split()
+cal1, cal2, cal3 = float(cal1), float(cal2), float(cal3)
+suma = cal1 + cal2 + cal3
+promedio = (suma) / 3
+if sexo == 'm' and edad > 21 and promedio >= 8 and promedio <= 10 :
+    print(f"{nombre} Eres estudiante aceptado")
+elif sexo == 'h' and edad <21 and promedio < 8 :
+    print(f"{nombre} Eres estudiante NO aceptado porque tu sexo es {sexo}, tu edad es {edad} y tu promedio es {promedio}") 
+elif sexo == 'h' :
+    print(f"{nombre} Eres estudiante NO aceptado porque tu sexo es {sexo}")
+elif edad <= 21 :
+    print(f"{nombre} Eres estudiante NO aceptado porque tu edad es {edad}")
+else :
+    print(f"{nombre} Eres estudiante NO aceptado porque tu promedio es {promedio}") 
+print("\n Proceso terminado.... ")
