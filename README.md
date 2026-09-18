@@ -101,3 +101,9 @@
 - p078-combina-colores.py
 - p079-suma-potencias.py
 - p079-suma-potenciasb.py
+## Tarea 4 - Ciclos for
+- p080-compara-rendimiento-inversion.py
+- p081-plan-ahorro-depistos-mensuales.py
+- p082-cuadro-hueco-caracter.py
+- p083-rombo-caracter.py
+- p084-triangulo-invertido-numeros.py
