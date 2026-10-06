@@ -117,10 +117,18 @@
 - p090-iterar-lista.py
 - p091-lista-de-gastos.py
 - p091-lista-de-gastos_b.py
-## Actividad 12 - Listas parte 2
+## Actividad 13 - Listas parte 2
 - p092-procesar-calificaciones.py
 - p093-consolidar-ventas.py
 - p094-precio-acciones.py
 - p095-registro-estudiantes.py
 - p096-procesar-datos-sensores.py
 - p097-producto-punto.py
+## Actividad 14 - Listas parte 3
+- p098-cuadrados-lista.py
+- p099-filtrar-pares.py
+- p100-normalizar-nombres.py
+- p101-clasificar-temperaturas.py
+- p102-aplanar-matriz.py
+- p103-resumen-ventas.py
+- p103-resumen-ventas_v2.py
