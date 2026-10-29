@@ -1,4 +1,4 @@
-# p133-alumnos-tuplas.py
+# p133-alumnos-tlen(alumnos)uplas.py
 # Registro de alumnos usando una tupla de tuplas
 
 # Creamos una tupla donde cada elemento es otra tupla que contiene
@@ -11,7 +11,7 @@ alumnos = (
 
 # Imprime el total de alumnos
 print("Registro de alumnos:")
-print("Total de alumnos: ", len(alumnos))
+print("Total de alumnos: ", )
 
 # Itera sobre la tupla de alumnos y calcula el promedio de calificaciones
 for nombre, carrera, calificaciones in alumnos:
