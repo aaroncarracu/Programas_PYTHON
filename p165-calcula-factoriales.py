@@ -1,4 +1,4 @@
-# p154-calcula-factoriales.py
+# p165-calcula-factoriales.py
 # Desarrolla un programa que calcule el factorial de cada número en una lista. Debes implementar:
 # 1. Una función que lea y devuelva una lista de números enteros
 # 2. Una función que reciba un número entero y devuelva su factorial (ej: 5! = 5*4*3*2*1 = 120)

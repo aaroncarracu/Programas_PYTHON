@@ -1,4 +1,4 @@
-# p150-dia-semana.py
+# p161-dia-semana.py
 # Escribe un programa con una función que reciba un número entero entre 1 y 7. La función debe devolver el día
 # de la semana correspondiente en texto (ej: 1 = "Lunes", 7 = "Domingo"). El programa principal debe pedir el
 # número al usuario, llamar a la función y mostrar el nombre del día.

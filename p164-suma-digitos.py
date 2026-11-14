@@ -1,4 +1,4 @@
-# p153-suma-digitos.py
+# p164-suma-digitos.py
 # Escribe un programa que procese una lista de números. Debes implementar lo siguiente:
 # 1. Una función que lea y devuelva una lista de números enteros (puedes reusar la hecha en clase).
 # 2. Una función que reciba un número entero y devuelva la suma de sus dígitos individuales (ej: 1971 ->

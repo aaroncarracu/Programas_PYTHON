@@ -1,4 +1,4 @@
-# p151–medidas-longitud.py
+# p162–medidas-longitud.py
 # Un conversor de unidades de longitud. El programa debe mostrar un
 # menú y utilizar dos funciones separadas:
 def pulgadas_a_centimetros(pulgadas):

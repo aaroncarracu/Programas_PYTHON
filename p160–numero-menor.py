@@ -1,4 +1,4 @@
-# p149–numero-menor.py
+# p160–numero-menor.py
 # Crea un programa que incluya una función. Dicha función debe solicitar 3 números enteros al usuario y devolver el
 # menor.
 def menor_numero():

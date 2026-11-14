@@ -1,4 +1,4 @@
-# p152-suma-pares-impares.py
+# p163-suma-pares-impares.py
 # Crea un programa que sume números pares o impares dentro de un rango especificado. El programa debe tener
 # una función que reciba tres parámetros: un número de inicio, un número de fin y una letra ('P' o 'I').
 def suma_pares_impares(inicio, fin, tipo):

@@ -1,4 +1,4 @@
-# p155-estadisticas-basicas.py
+# p166-estadisticas-basicas.py
 # Crea un programa que calcule estadísticas básicas (poblacionales) para una lista de números. El programa debe incluir:
 # 1. Una función para leer una lista de números enteros.
 # 2. Funciones separadas para calcular y devolver cada una de las siguientes estadísticas:
